@@ -12,7 +12,7 @@ const Data = [{
     },
     {
         'name': 'Avatar 2',
-        'img': 'https://pbs.twimg.com/profile_images/1550843824540250113/FTZ__97c_400x400.png',
+        'img': 'https://pbs.twimg.com/profile_images/1525170275066601472/atzVqb4X_400x400.jpg',
         'date': '16/12/22',
 
     },
