@@ -11,11 +11,18 @@ const Data = [{
 
     },
     {
+        'name': 'Avatar 2',
+        'img': 'https://pbs.twimg.com/profile_images/1550843824540250113/FTZ__97c_400x400.png',
+        'date': '16/12/22',
+
+    },
+    {
         'name': 'Shazam 2',
         'img': 'https://pbs.twimg.com/profile_images/1550843824540250113/FTZ__97c_400x400.png',
         'date': '21/12/22',
 
     },
+
     {
         'name': 'Dungeons and Dragons',
         'img': 'https://pbs.twimg.com/profile_images/1517176299571204099/pzOUSFhW_400x400.jpg',
