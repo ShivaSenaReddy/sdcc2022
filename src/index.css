@@ -96,4 +96,15 @@ code {
     body{
         font-size:70%;
     }
+    .MoviesList {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+    }
+}
+
+.Header{
+    display:flex;
+    flex-direction:column;
 }
