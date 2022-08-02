@@ -21,8 +21,8 @@ code {
 }
 
 #poster{
-    width:400px;
-    height:500px;
+    width:300px;
+    height:400px;
 }
 
 .Movie {
@@ -77,4 +77,23 @@ code {
     background-color: #2980b9;
     color: white;
     transform: rotateY(180deg);
+}
+
+.Movie {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media only screen and (max-width:700px){
+    h2{
+        font-size:70%;
+    }
+    #poster {
+        width: 200px;
+        height: 250px;
+    }
+    body{
+        font-size:70%;
+    }
 }
